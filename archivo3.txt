@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Este es otro archivo 
-=======
-Este es otro archivo v2
->>>>>>> main
+Este es otro archivo v login
+
